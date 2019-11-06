@@ -1,0 +1,11 @@
+Package: dna
+Type: Package
+Title: translate RNA or DNA to amino acids
+Version: 0.1.0
+Author: Toan Hoang
+Maintainer: The package maintainer <htoan169@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
